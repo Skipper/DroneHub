@@ -22,6 +22,8 @@ DroneHub is a mobile application developed in Kotlin that offers an online shopp
 
 - **Advanced Search**: Use the search field to quickly find the drones you desire.
 
+- **Empty State Handling**: When the RecyclerView for products has no records in a category, the app provides a user-friendly message to inform users and enhance their experience.
+
 ## :gear: App Structure
 
 DroneHub follows the MVVM (Model-View-ViewModel) pattern to separate business logic from the user interface, simplifying development and improving the user experience (UX).
