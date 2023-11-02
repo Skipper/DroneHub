@@ -1,6 +1,6 @@
 # :helicopter: DroneHub - Your Drone Store
 
-![Screenshot](screenshot.png)
+![Screenshot](images/Landscape.jpg)
 
 ## :rocket: Project Description
 
@@ -35,9 +35,9 @@ DroneHub follows the MVVM (Model-View-ViewModel) pattern to separate business lo
 
 ## :camera: Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+![Screenshot](images/Portrait.jpg)
+![Screenshot](images/PortraitVertical.jpg)
+![Screenshot](images/Empty.jpg)
 
 ## :bulb: Future Features
 
